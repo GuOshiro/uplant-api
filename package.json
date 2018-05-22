@@ -1,0 +1,21 @@
+{
+  "name": "uplant-api",
+  "version": "1.0.0",
+  "description": "Uplant API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Gustavo Oshiro",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.2",
+    "nodemon": "^1.17.4"
+  },
+  "devDependencies": {}
+}
